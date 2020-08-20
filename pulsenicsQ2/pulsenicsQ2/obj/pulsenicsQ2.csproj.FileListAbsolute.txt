@@ -1,0 +1,5 @@
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ2\pulsenicsQ2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ2\pulsenicsQ2\bin\Debug\pulsenicsQ2.exe
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ2\pulsenicsQ2\bin\Debug\pulsenicsQ2.pdb
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ2\pulsenicsQ2\obj\Debug\pulsenicsQ2.exe
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ2\pulsenicsQ2\obj\Debug\pulsenicsQ2.pdb

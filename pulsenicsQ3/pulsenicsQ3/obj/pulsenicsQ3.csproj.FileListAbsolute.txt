@@ -1,0 +1,5 @@
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ3\pulsenicsQ3\bin\Debug\pulsenicsQ3.exe
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ3\pulsenicsQ3\bin\Debug\pulsenicsQ3.pdb
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ3\pulsenicsQ3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ3\pulsenicsQ3\obj\Debug\pulsenicsQ3.exe
+C:\Users\lywme\Documents\Visual Studio 2005\Projects\pulsenicsQ3\pulsenicsQ3\obj\Debug\pulsenicsQ3.pdb
